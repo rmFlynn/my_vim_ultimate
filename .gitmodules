@@ -1,6 +1,3 @@
-[submodule "my_plugins/YouCompleteMe"]
-	path = my_plugins/YouCompleteMe
-	url = https://github.com/ycm-core/YouCompleteMe.git
 [submodule "my_plugins/vimcmdline"]
 	path = my_plugins/vimcmdline
 	url = https://github.com/jalvesaq/vimcmdline.git
